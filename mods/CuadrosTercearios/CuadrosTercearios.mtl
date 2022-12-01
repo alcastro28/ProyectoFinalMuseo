@@ -1,0 +1,42 @@
+# Blender 3.3.1 MTL File: 'Museo.blend'
+# www.blender.org
+
+newmtl Frame.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/HectorPc/Desktop/JLPERALTA_CGI_MOD_GLUI/mods/Cuadro2/C:/Users/HectorPc/Desktop/onk6zez37sow-ikeaframe1/D:/Kadirhan Osman 3D Models/3DsMax/Frame (Cerceve)/Textures/Frame.png
+
+newmtl Glass.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.996100 0.996100
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.100000
+illum 1
+
+newmtl Photo.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/HectorPc/Desktop/JLPERALTA_CGI_MOD_GLUI/mods/Cuadro2/C:/Users/HectorPc/Desktop/onk6zez37sow-ikeaframe1/D:/Kadirhan Osman 3D Models/3DsMax/Frame (Cerceve)/Textures/Image.JPG
+
+newmtl White.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1

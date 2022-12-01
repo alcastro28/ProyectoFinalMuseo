@@ -1,0 +1,346 @@
+# depslib dependency file v1.0
+1042610372 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\bmp.cpp
+	<fstream>
+	"bmp.h"
+
+1042607746 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\bmp.h
+	<windows.h>
+
+1669600511 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+	<iostream>
+
+1368294560 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1668015058 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\camera.h
+
+1591603324 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206988262 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354378716 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\glm.h
+	<GL/glut.h>
+
+1668024350 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\md2.cpp
+	<GL/glut.h>
+	<fstream>
+	"md2.h"
+	"texture2.h"
+	"anorms.h"
+	"anormtab.h"
+
+1667879044 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\md2.h
+
+1042505206 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\texture2.h
+	<list>
+	<string>
+
+1042505444 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\anorms.h
+
+1042505446 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\anormtab.h
+
+1042609512 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\pcx.cpp
+	<fstream>
+	"pcx.h"
+
+1042607746 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\pcx.h
+
+1206988262 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\stdafx.cpp
+	"stdafx.h"
+
+1208833804 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1668012277 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1668024360 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\texture2.cpp
+	<GL/glut.h>
+	"texture2.h"
+	"bmp.h"
+	"tga.h"
+	"pcx.h"
+
+1042607750 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\tga.h
+	<windows.h>
+
+1042610372 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\tga.cpp
+	<fstream>
+	"tga.h"
+
+1669586496 source:c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	"stdafx.h"
+	<stdlib.h>
+	<windows.h>
+	"glm.h"
+	"Texture.h"
+	"Camera.h"
+	<iomanip>
+	"texture2.h"
+	"timer.h"
+	"md2.h"
+	<mmsystem.h>
+
+1041531722 c:\users\hectorpc\desktop\jlperalta_cgi_mod_glui\timer.h
+
+1042610372 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\bmp.cpp
+	<fstream>
+	"bmp.h"
+
+1042607746 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\bmp.h
+	<windows.h>
+
+1669658939 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+	<iostream>
+
+1368294560 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1668015058 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\camera.h
+
+1591603324 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206988262 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354378716 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\glm.h
+	<GL/glut.h>
+
+1669658783 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	"stdafx.h"
+	<stdlib.h>
+	<windows.h>
+	"glm.h"
+	"Texture.h"
+	"Camera.h"
+	<iomanip>
+	"texture2.h"
+	"timer.h"
+	"md2.h"
+	<mmsystem.h>
+
+1668012277 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1042505206 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\texture2.h
+	<list>
+	<string>
+
+1041531722 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\timer.h
+
+1667879044 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\md2.h
+
+1668024350 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\md2.cpp
+	<GL/glut.h>
+	<fstream>
+	"md2.h"
+	"texture2.h"
+	"anorms.h"
+	"anormtab.h"
+
+1042505444 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\anorms.h
+
+1042505446 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\anormtab.h
+
+1042609512 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\pcx.cpp
+	<fstream>
+	"pcx.h"
+
+1042607746 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\pcx.h
+
+1206988262 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\stdafx.cpp
+	"stdafx.h"
+
+1208833804 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1668024360 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\texture2.cpp
+	<GL/glut.h>
+	"texture2.h"
+	"bmp.h"
+	"tga.h"
+	"pcx.h"
+
+1042607750 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\tga.h
+	<windows.h>
+
+1042610372 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\jlperalta_cgi_mod_glui\tga.cpp
+	<fstream>
+	"tga.h"
+
+1042610372 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\bmp.cpp
+	<fstream>
+	"bmp.h"
+
+1042607746 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\bmp.h
+	<windows.h>
+
+1669658939 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+	<iostream>
+
+1368294560 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\dependencias\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\dependencias\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1668015058 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\camera.h
+
+1591603324 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\glm.cpp
+	"stdafx.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1206988262 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\stdafx.h
+	<stdio.h>
+	<tchar.h>
+
+1354378716 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\glm.h
+	<GL/glut.h>
+
+1669662043 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<iostream>
+	<cmath>
+	"stdafx.h"
+	<stdlib.h>
+	<windows.h>
+	"glm.h"
+	"Texture.h"
+	"Camera.h"
+	<iomanip>
+	"texture2.h"
+	"timer.h"
+	"md2.h"
+	<mmsystem.h>
+
+1668012277 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\texture.h
+	<windows.h>
+	<windowsx.h>
+	<stdlib.h>
+	<stdio.h>
+	"GL/glut.h"
+	<math.h>
+
+1042505206 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\texture2.h
+	<list>
+	<string>
+
+1041531722 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\timer.h
+
+1667879044 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\md2.h
+
+1668024350 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\md2.cpp
+	<GL/glut.h>
+	<fstream>
+	"md2.h"
+	"texture2.h"
+	"anorms.h"
+	"anormtab.h"
+
+1042505444 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\anorms.h
+
+1042505446 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\anormtab.h
+
+1042609512 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\pcx.cpp
+	<fstream>
+	"pcx.h"
+
+1042607746 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\pcx.h
+
+1206988262 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\stdafx.cpp
+	"stdafx.h"
+
+1208833804 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\texture.cpp
+	"stdafx.h"
+	"Texture.h"
+
+1668024360 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\texture2.cpp
+	<GL/glut.h>
+	"texture2.h"
+	"bmp.h"
+	"tga.h"
+	"pcx.h"
+
+1042607750 c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\tga.h
+	<windows.h>
+
+1042610372 source:c:\users\newbr\documents\proyectos code blocks\proyecto fnal\proyectofinalmuseo\tga.cpp
+	<fstream>
+	"tga.h"
+
